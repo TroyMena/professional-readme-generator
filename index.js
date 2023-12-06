@@ -11,14 +11,20 @@ const questions = [{
   {
     type: 'checkbox',
     message: 'What languages do you know?',
-    name: 'stack',
+    name: 'languages',
     choices: ['HTML', 'CSS', 'JavaScript', 'MySQL'],
   },
   {
     type: 'input',
     message: 'What is your email?',
     name: 'email',
-  }];
+  },
+  {
+    type: 'list',
+    message: 'Which license will you be using?',
+    name: 'license',
+    choices: ['none', 'MIT', 'Apache', 'Creative Commons']
+  },];
 
 // TODO: Create a function to write README file
 // function writeToFile(fileName, data) {}

@@ -1,4 +1,4 @@
-# ttttt
+# r
 
   Simple overview of use/purpose.
   
@@ -13,7 +13,7 @@
   ## Installation
   
   undefined
-  
+
   * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
   * ex. Windows 10
   
@@ -21,11 +21,13 @@
   
   ## License
   
+  This project is licensed under MIT.
+  
   ## Contributing
 
   ## Tests
 
   ## Questions
 
-  * rettwe@dfsf.com
+  * r
   *
