@@ -14,6 +14,35 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  Simple overview of use/purpose.
+  
+  ## Description
+  
+  ${data.description}
+  
+  ## Table of Contents
+
+  ${data.stack}
+  
+  ## Installation
+  
+  ${data.installation}
+  
+  * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+  * ex. Windows 10
+  
+  ## Usage
+  
+  ## License
+  
+  ## Contributing
+
+  ## Tests
+
+  ## Questions
+
+  * ${data.email}
+  *
 `;
 }
 
