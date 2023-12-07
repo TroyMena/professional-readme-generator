@@ -10,7 +10,6 @@ function renderLicenseLink(license) {}
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   // If the user doesn't say none (they select a license), we want to render a license section which says the license the user selected.
-  console.log(license)
   if (license === 'none') {
     return ''
   }
@@ -30,6 +29,13 @@ function generateMarkdown(data) {
   ${data.description}
   
   ## Table of Contents
+
+  - [Installation](#installation)
+  - [Usage] (usage)
+  - [License] (#license)
+  - [Contributing] (#contributing)
+  - [Tests] (#tests)
+  - [Questions] (#questions)
 
   ${data.languages}
   
