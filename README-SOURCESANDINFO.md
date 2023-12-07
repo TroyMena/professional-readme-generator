@@ -10,7 +10,3 @@ This command-line application seamlessly creates a README file, which allows the
 ## Repository URL
 
 https://github.com/TroyMena/professional-readme-generator
-
-## Website URL
-
-https://troymena.github.io/professional-readme-generator
