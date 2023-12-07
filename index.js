@@ -23,7 +23,7 @@ const questions = [{
     type: 'list',
     message: 'Which license will you be using?',
     name: 'license',
-    choices: ['none', 'MIT', 'Apache', 'Creative Commons']
+    choices: ['none', 'MIT', 'GPL', 'Apache', 'Creative Commons']
   },];
 
 // TODO: Create a function to write README file

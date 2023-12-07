@@ -15,7 +15,7 @@ function renderLicenseLink(license) {
     return 'https://opensource.org/license/gpl-2-0/'
   }
   else if (license == "Creative Commons") {
-    return 'https://creativecommons.org/licenses/by/3.0/ca/legalcode.en'
+    return 'https://creativecommons.org/licenses/by/2.5/legalcode.en'
   }
 }
 
