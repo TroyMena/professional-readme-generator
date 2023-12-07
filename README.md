@@ -1,4 +1,4 @@
-# fg
+# t
 
   Simple overview of use/purpose.
   
@@ -9,7 +9,7 @@
   ## Table of Contents
 
   - [Installation](#installation)
-  - [Usage] (#usage)
+  - [Usage] (usage)
   - [License] (#license)
   - [Contributing] (#contributing)
   - [Tests] (#tests)
@@ -28,7 +28,7 @@
   
   ## License
   
-  This project is licensed under MIT.
+  This project is licensed under GPL. URL: https://opensource.org/license/gpl-2-0/
   
   ## Contributing
 
@@ -36,5 +36,5 @@
 
   ## Questions
 
-  * fdfg
+  * t
   *
